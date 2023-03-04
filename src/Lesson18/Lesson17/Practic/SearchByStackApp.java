@@ -1,4 +1,4 @@
-package Practice17;
+package Lesson18.Lesson17.Practic;
 /*
         Homework Task:
         Right parenthesis:
@@ -12,10 +12,9 @@ package Practice17;
         Using stack
 */
 
-import java.util.List;
 import java.util.Stack;
 
-public class SearchByStack {
+public class SearchByStackApp {
     public static void main(String[] args) {
         Stack<Character> list = new Stack<>();
         System.out.println("Result: " + CheckSymbol("{}["));

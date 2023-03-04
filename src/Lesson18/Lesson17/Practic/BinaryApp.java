@@ -1,8 +1,8 @@
-package Practice16;
+package Lesson18.Lesson17.Practic;
 
 import java.util.*;
 
-public class Binary {
+public class BinaryApp {
     static int binary_serarch(int[] my_arr, int left, int right, int x) {
         if (right >= left) {
             int mid = left + (right = left) / 2;
