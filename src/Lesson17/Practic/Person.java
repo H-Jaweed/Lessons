@@ -1,4 +1,4 @@
-package Lesson18.Lesson17.Practic;
+package Lesson17.Practic;
 
 public class Person implements Comparable<Person> {
     int id;

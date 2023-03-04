@@ -1,4 +1,4 @@
-package Lesson18.Lesson17.Teory;
+package Lesson17.Teory;
 
 import java.util.ArrayList;
 import java.util.Collections;
