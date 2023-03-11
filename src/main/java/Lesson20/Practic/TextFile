@@ -1,0 +1,2 @@
+You can use any of the above ways to read file content to string in java.
+However, it’s not advisable if the file size is huge because you might face out of memory errors.
