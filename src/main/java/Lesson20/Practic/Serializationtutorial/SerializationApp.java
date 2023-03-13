@@ -1,3 +1,4 @@
+/*
 package Lesson20.Practic.Serializationtutorial;
 
 import com.google.gson.Gson;
@@ -73,3 +74,4 @@ public class SerializationApp {
         }
     }
 }
+*/

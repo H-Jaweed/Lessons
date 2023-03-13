@@ -19,10 +19,10 @@ public class ProcessDemo {
                 System.out.println(line);
             }
 
-            int exitCode = process.waitFor();
-            System.out.println("\nExited with error code : " + exitCode);
+          //  int exitCode = process.waitFor();
+           // System.out.println("\nExited with error code : " + exitCode);
 
-        } catch (IOException | InterruptedException e) {
+        } catch (IOException e) {
             e.printStackTrace();
         }
     }
